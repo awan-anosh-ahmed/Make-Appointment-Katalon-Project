@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/NewtestMakeapp/Page_CURA Healthcare Service/a_Go to Homepage",
+      "brokenLocator": "Clos",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//section[@id\u003d\u0027summary\u0027]/div/div/div[7]/p/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/NewtestMakeapp/Page_CURA Healthcare Service/a_Go to Homepage_idRelative.png"
+    }
+  ]
+}
